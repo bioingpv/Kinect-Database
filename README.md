@@ -46,4 +46,4 @@ In the file database.mat, you will fine the following column (joint angles betwe
 **All Kinect Data are roto-translated to obtain data referred to an absolute reference system.**
 ![rotoT](https://user-images.githubusercontent.com/26774553/152385224-dc1a0633-fa70-4a13-b85a-4d9768d42396.svg)
 
-For any information, contac: brunamariavitt.guerra01@universitadipavia.it
+For any information, please contact: brunamariavitt.guerra01@universitadipavia.it
