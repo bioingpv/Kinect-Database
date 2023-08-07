@@ -24,7 +24,7 @@ Each row of the dataset is labelled with one of the following classes:
 
 ![omino](https://user-images.githubusercontent.com/26774553/152379873-27446217-7c26-4951-b632-7083d9d5fef1.svg)
 
-In the file database.mat, you will fine the following column (joint angles between two body segments are computed in the space and absolute joint angles calculated between a body segment and the horizontal plane passing through the two hips and the two shoulders):
+In the file database.mat, you will find the following columns (joint angles between two body segments are computed in the space and absolute joint angles calculated between a body segment and the horizontal plane passing through the two hips and the two shoulders):
 1) Datatime
 2) Subjets (Sn, where n = 1,..12)
 3) Kinect (K1, K2, K3 and K4)
